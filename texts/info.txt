@@ -1,0 +1,6 @@
+so far we learned: 
+----------------------
+git init
+git status 
+git status -s 
+git add file.ext 
